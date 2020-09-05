@@ -3,3 +3,4 @@ hello world
 thir file
 added forth text
 fifth line
+sixth line
